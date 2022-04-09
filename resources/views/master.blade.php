@@ -20,5 +20,16 @@
         padding-top: 100px;
         
     }
+    img.slider-img{
+        height: 380px!important;
+        object-fit: contain;
+        background: rgb(0,0,0,0.6)!important;
+    }
+    .custom-product{
+        height: 600px;
+    }
+    .slider-text{
+        background-color: rgb(0,0,0,0.6)!important;
+    }
 </style>
 </html>
